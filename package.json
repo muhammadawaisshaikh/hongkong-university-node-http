@@ -1,0 +1,20 @@
+{
+  "name": "hongkong-university-node-http",
+  "version": "1.0.0",
+  "description": "Node and the HTTP Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadawaisshaikh/hongkong-university-node-http.git"
+  },
+  "author": "Muhammad Awais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadawaisshaikh/hongkong-university-node-http/issues"
+  },
+  "homepage": "https://github.com/muhammadawaisshaikh/hongkong-university-node-http#readme"
+}
